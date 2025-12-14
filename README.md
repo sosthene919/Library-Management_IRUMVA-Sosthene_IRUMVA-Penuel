@@ -21,7 +21,9 @@ List the main features or functionality of your application.
   Technologies Used:
 
 Frontend: HTML/CSS
+
 Backend: PHP
+
 Database: XAMPP - MySQL, SQLite, Apache
 
  
